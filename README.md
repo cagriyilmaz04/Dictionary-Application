@@ -3,11 +3,11 @@ Hello there, This is a dictionary app. You can find most of words and they have 
 
 
 # Libraries that I used in projects
--Retrofit
--Room (I hate it)
--Coroutine
--Model-View-ViewModel (Architecture Components)
--ViewBinding
+-Retrofit </br>
+-Room (I hate it) </br>
+-Coroutine </br>
+-Model-View-ViewModel (Architecture Components) </br>
+-ViewBinding </br>
 
 ![resim1](https://user-images.githubusercontent.com/79268497/133673209-3a5c80e0-8d5a-452d-9ace-1b0e34426eec.png)
 ![resim2](https://user-images.githubusercontent.com/79268497/133673214-7c25b488-8c41-4c2d-b6fe-d9fcb6446e3d.png)
