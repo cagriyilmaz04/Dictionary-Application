@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">Dictionary App</string>
+    <string name="app_name">Dictionary Application Kotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="arananlar">History</string>
+    <string name="ana_sayfa">Home</string>
+    <string name="search">Search</string>
+    <string name="toast_message">You need to enter something</string>
+    <string name="word">Word: </string>
+    <string name="type">Type: </string>
+    <string name="detail">Definition: </string>
+    <string name="example">Example: </string>
+    <string name="delete_toolbar">Delete All Words</string>
+    <string name="delete_room">History</string>
+    <string name="there_is_no_word">There is no word</string>
+    <string name="delete">Delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="history">History</string>
+    <string name="unfortune">Unfortunatelly</string>
 </resources>

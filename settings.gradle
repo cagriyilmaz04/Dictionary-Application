@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Dictionary App"
+rootProject.name = "Dictionary Application Kotlin"
